@@ -10,6 +10,7 @@ The result of the die is the number of steps the player moves on the board.
 If the player stops at any of the fields with a challenge stamp, the player must accept the challenge.
 Challenges are done by picking a frst available question from the pile of questions on the board.
 The player reads it and has to answer it. Failing to answer it will lead to a loss of life, like mentioned above.
+It's game over once any player reaches the end. Note, that a player must get the correct result from die to reach it, otherwise skips skips the turn.
 
 And remember,
 
