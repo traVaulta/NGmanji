@@ -13,7 +13,7 @@ The player reads it and has to answer it. Failing to answer it will lead to a lo
 
 And remember,
 
-""" In jungle you must wait, until the dice read five or eight... """
+_"In jungle you must wait, until the dice read five or eight..."_
 
 
 ## Author
