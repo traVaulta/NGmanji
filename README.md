@@ -5,7 +5,7 @@ On the way a set of challenges will appear in form of questions regarding Angula
 If successful the player continues, otherwise loses one (1) life out of three (3) available.
 A player that loses all lives is out of the game.
 
-The games is played in turns, so each player takes a turn to throw a single die.
+The game is played in turns, so each player takes a turn to throw a single die.
 The result of the die is the number of steps the player moves on the board.
 If the player stops at any of the fields with a challenge stamp, the player must accept the challenge.
 Challenges are done by picking a frst available question from the pile of questions on the board.
