@@ -19,4 +19,4 @@ _"In jungle you must wait, until the dice read five or eight..."_
 
 ## Author
 
-- [Matija Čvrk](https://www.linkedin.com/in/consultant-matija-cvrk-1388b3101/)
+- [Matija Čvrk](https://hr.linkedin.com/in/matija-%C4%8Dvrk-1388b3101/)
